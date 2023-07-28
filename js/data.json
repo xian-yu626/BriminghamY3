@@ -1,0 +1,4647 @@
+{
+  "airline_name_Arr": [
+    {
+      "yearsTime": "2019-01",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "40073",
+          "airline_average_delay_mins": "12.93399547"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "1924",
+          "airline_average_delay_mins": "15.67411636"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2708",
+          "airline_average_delay_mins": "13.2518464"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "20356",
+          "airline_average_delay_mins": "11.72465121"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2240",
+          "airline_average_delay_mins": "11.52499983"
+        },
+        {
+          "airline_name": "EASYJET LTD",
+          "number_flights_matched": "25023",
+          "airline_average_delay_mins": "10.45070535"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "18276",
+          "airline_average_delay_mins": "9.477894499"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "2580",
+          "airline_average_delay_mins": "8.031782933"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2970",
+          "airline_average_delay_mins": "7.659596057"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "24694",
+          "airline_average_delay_mins": "7.532396519"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3984",
+          "airline_average_delay_mins": "3.986947886"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-02",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "36852",
+          "airline_average_delay_mins": "13.1232497537989"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "1946",
+          "airline_average_delay_mins": "14.1510791300102"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "17807",
+          "airline_average_delay_mins": "13.2753972946594"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "25600",
+          "airline_average_delay_mins": "12.8080468890625"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2396",
+          "airline_average_delay_mins": "11.0338064244574"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "23636",
+          "airline_average_delay_mins": "9.69191065256388"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "18218",
+          "airline_average_delay_mins": "9.3986716319574"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3695",
+          "airline_average_delay_mins": "8.29905279431664"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2771",
+          "airline_average_delay_mins": "7.7971850313966"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2230",
+          "airline_average_delay_mins": "7.68923774932735"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "2903",
+          "airline_average_delay_mins": "6.57251118670341"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-03",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "40747",
+          "airline_average_delay_mins": "14.78403318902"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "3155",
+          "airline_average_delay_mins": "18.5977812830427"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "19872",
+          "airline_average_delay_mins": "14.1079910905293"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "29504",
+          "airline_average_delay_mins": "13.3561551036808"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2466",
+          "airline_average_delay_mins": "12.6889698381995"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "27141",
+          "airline_average_delay_mins": "12.4910652040086"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2601",
+          "airline_average_delay_mins": "10.8077662591311"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "4198",
+          "airline_average_delay_mins": "10.5671749656979"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "2527",
+          "airline_average_delay_mins": "8.99406408824693"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "20290",
+          "airline_average_delay_mins": "8.29216364943321"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "4187",
+          "airline_average_delay_mins": "7.40721279340816"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-04",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "42116",
+          "airline_average_delay_mins": "13.2156187764982"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "4259",
+          "airline_average_delay_mins": "22.0002348480864"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "3232",
+          "airline_average_delay_mins": "20.7883663332302"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "31368",
+          "airline_average_delay_mins": "20.7369931292718"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "2974",
+          "airline_average_delay_mins": "20.4717551368527"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "25353",
+          "airline_average_delay_mins": "14.5995345825346"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "20546",
+          "airline_average_delay_mins": "11.3760343058989"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2814",
+          "airline_average_delay_mins": "10.6645345092395"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2342",
+          "airline_average_delay_mins": "10.0128094756618"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "28171",
+          "airline_average_delay_mins": "8.38546734528415"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "5347",
+          "airline_average_delay_mins": "7.39236951561623"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-05",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "41406",
+          "airline_average_delay_mins": "13.4996135930782"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2927",
+          "airline_average_delay_mins": "16.180389462248"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2901",
+          "airline_average_delay_mins": "14.3322992137194"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "33305",
+          "airline_average_delay_mins": "13.7240654547965"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "3462",
+          "airline_average_delay_mins": "12.6967070525707"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "26447",
+          "airline_average_delay_mins": "11.6685446524747"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2344",
+          "airline_average_delay_mins": "10.1365189023037"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "20799",
+          "airline_average_delay_mins": "10.1221693238617"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "8801",
+          "airline_average_delay_mins": "9.77775251800931"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3988",
+          "airline_average_delay_mins": "9.52206619082246"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "29140",
+          "airline_average_delay_mins": "8.75737819927934"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-06",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "42648",
+          "airline_average_delay_mins": "18.6667839432564"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2915",
+          "airline_average_delay_mins": "24.3835334692967"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "32697",
+          "airline_average_delay_mins": "20.7701318433189"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3816",
+          "airline_average_delay_mins": "17.5877882932389"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "20136",
+          "airline_average_delay_mins": "16.6594159917063"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "3728",
+          "airline_average_delay_mins": "16.3111587797746"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "28630",
+          "airline_average_delay_mins": "14.7976947202235"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2795",
+          "airline_average_delay_mins": "14.7309482332737"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "25221",
+          "airline_average_delay_mins": "14.2739384132667"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2230",
+          "airline_average_delay_mins": "14.1735426470852"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "10205",
+          "airline_average_delay_mins": "12.5222929757961"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-07",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "44495",
+          "airline_average_delay_mins": "20.5621305792336"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "3098",
+          "airline_average_delay_mins": "27.3308587094899"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "33609",
+          "airline_average_delay_mins": "24.1903061980124"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "20021",
+          "airline_average_delay_mins": "17.6025173051795"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "3916",
+          "airline_average_delay_mins": "17.5079161335546"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "29457",
+          "airline_average_delay_mins": "17.056760680721"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "25827",
+          "airline_average_delay_mins": "15.0942424347388"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2356",
+          "airline_average_delay_mins": "14.614176614601"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "10872",
+          "airline_average_delay_mins": "12.1448675413907"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3948",
+          "airline_average_delay_mins": "12.0463525564842"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2867",
+          "airline_average_delay_mins": "10.1841647384025"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-08",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "45000",
+          "airline_average_delay_mins": "18.2392000014"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "34234",
+          "airline_average_delay_mins": "24.0016942236373"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "3213",
+          "airline_average_delay_mins": "22.6140677976968"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "29548",
+          "airline_average_delay_mins": "17.5393596627859"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "20910",
+          "airline_average_delay_mins": "14.4292204923481"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2389",
+          "airline_average_delay_mins": "13.8660527341984"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "25913",
+          "airline_average_delay_mins": "13.3634468943773"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3944",
+          "airline_average_delay_mins": "13.2786510694726"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "3914",
+          "airline_average_delay_mins": "12.7439959138988"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "11016",
+          "airline_average_delay_mins": "12.4222948638344"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2903",
+          "airline_average_delay_mins": "8.22941799896658"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-09",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "42006",
+          "airline_average_delay_mins": "16.1924248912536"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "33458",
+          "airline_average_delay_mins": "21.1921214705899"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "3111",
+          "airline_average_delay_mins": "19.2092574696239"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2789",
+          "airline_average_delay_mins": "17.2176407493725"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "25025",
+          "airline_average_delay_mins": "14.9226773241558"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "4004",
+          "airline_average_delay_mins": "14.1690809288211"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "25950",
+          "airline_average_delay_mins": "13.8970327863583"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3762",
+          "airline_average_delay_mins": "13.6725145279106"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2307",
+          "airline_average_delay_mins": "13.018205473342"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "19432",
+          "airline_average_delay_mins": "12.788699100247"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "10147",
+          "airline_average_delay_mins": "12.6125948484281"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-10",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "37815",
+          "airline_average_delay_mins": "13.0303054638635"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "3080",
+          "airline_average_delay_mins": "18.1262986792207"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "32858",
+          "airline_average_delay_mins": "13.5138170460161"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2859",
+          "airline_average_delay_mins": "13.4438614994753"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2345",
+          "airline_average_delay_mins": "12.1680169582089"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "28491",
+          "airline_average_delay_mins": "12.068512841213"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "24712",
+          "airline_average_delay_mins": "10.6347928371236"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "4215",
+          "airline_average_delay_mins": "9.69608541708185"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "18132",
+          "airline_average_delay_mins": "9.23461280796382"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3768",
+          "airline_average_delay_mins": "8.9065818418259"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "8655",
+          "airline_average_delay_mins": "7.38648179295205"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-11",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "33179",
+          "airline_average_delay_mins": "8.72099822393683"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "25249",
+          "airline_average_delay_mins": "10.0694284338785"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "4079",
+          "airline_average_delay_mins": "10.0269674412846"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "18724",
+          "airline_average_delay_mins": "7.54689168762016"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2471",
+          "airline_average_delay_mins": "7.44678264467826"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "16232",
+          "airline_average_delay_mins": "7.17262200542139"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2227",
+          "airline_average_delay_mins": "6.30669057341715"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2660",
+          "airline_average_delay_mins": "6.28834583984962"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "23850",
+          "airline_average_delay_mins": "6.20683437941299"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3499",
+          "airline_average_delay_mins": "5.81051732837953"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "4224",
+          "airline_average_delay_mins": "5.54829548697916"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-12",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "33989",
+          "airline_average_delay_mins": "13.5731560319515"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "28073",
+          "airline_average_delay_mins": "15.683895554946"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "3044",
+          "airline_average_delay_mins": "13.6626149188567"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "19471",
+          "airline_average_delay_mins": "13.338143878075"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "25435",
+          "airline_average_delay_mins": "12.0921957692549"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "3652",
+          "airline_average_delay_mins": "11.0328587201533"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2119",
+          "airline_average_delay_mins": "10.8329399650778"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2699",
+          "airline_average_delay_mins": "9.44386810374212"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "3646",
+          "airline_average_delay_mins": "8.10449806582556"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "15684",
+          "airline_average_delay_mins": "8.0087987631344"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3541",
+          "airline_average_delay_mins": "6.28833677379271"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-01",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "37756",
+          "airline_average_delay_mins": "10.5908729572783"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2811",
+          "airline_average_delay_mins": "10.0715048406261"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "3418",
+          "airline_average_delay_mins": "10.0386189692802"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "23965",
+          "airline_average_delay_mins": "8.43705401301898"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "25102",
+          "airline_average_delay_mins": "8.35068914357421"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "19404",
+          "airline_average_delay_mins": "7.67511854890744"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2277",
+          "airline_average_delay_mins": "6.50636812736056"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "3275",
+          "airline_average_delay_mins": "6.46992370442748"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "3215",
+          "airline_average_delay_mins": "6.02083992846034"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "15627",
+          "airline_average_delay_mins": "5.73001856427977"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3628",
+          "airline_average_delay_mins": "4.54878719542447"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-02",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "35330",
+          "airline_average_delay_mins": "16.2128785672233"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "23823",
+          "airline_average_delay_mins": "20.7685429573521"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "3826",
+          "airline_average_delay_mins": "19.8912702501306"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "24757",
+          "airline_average_delay_mins": "17.533546085188"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2460",
+          "airline_average_delay_mins": "15.9987804280487"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "18077",
+          "airline_average_delay_mins": "15.7749626601205"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2808",
+          "airline_average_delay_mins": "14.5395299269943"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "2323",
+          "airline_average_delay_mins": "13.4464054907447"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "3317",
+          "airline_average_delay_mins": "13.2007838263491"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3458",
+          "airline_average_delay_mins": "11.3146327912087"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "15669",
+          "airline_average_delay_mins": "7.79596660973897"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-03",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "23229",
+          "airline_average_delay_mins": "7.82358257002022"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "2522",
+          "airline_average_delay_mins": "18.0939730864393"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "17403",
+          "airline_average_delay_mins": "9.32207089570763"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "11930",
+          "airline_average_delay_mins": "7.90511313243922"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "1893",
+          "airline_average_delay_mins": "6.73481238774432"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "16935",
+          "airline_average_delay_mins": "6.10664304995571"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "1760",
+          "airline_average_delay_mins": "5.73579545397727"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "1837",
+          "airline_average_delay_mins": "4.681001547632"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "1200",
+          "airline_average_delay_mins": "4.11666652833333"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "2022",
+          "airline_average_delay_mins": "2.76211678239366"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "3041",
+          "airline_average_delay_mins": "2.612298505097"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-04",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "2224",
+          "airline_average_delay_mins": "7.39208631160071"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "459",
+          "airline_average_delay_mins": "5.47930286274509"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "262",
+          "airline_average_delay_mins": "5.11832059923664"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "644",
+          "airline_average_delay_mins": "3.91614903416149"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "931",
+          "airline_average_delay_mins": "2.66038474309"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "1112",
+          "airline_average_delay_mins": "2.44424466546762"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "362",
+          "airline_average_delay_mins": "1.18232027624309"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "327",
+          "airline_average_delay_mins": "1.0266490340201"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "180",
+          "airline_average_delay_mins": "0.872222022222222"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "120",
+          "airline_average_delay_mins": "0.416667"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "290",
+          "airline_average_delay_mins": "0.31908166670"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-05",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "2164",
+          "airline_average_delay_mins": "6.63632162060998"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "1047",
+          "airline_average_delay_mins": "8.6125948484281"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "278",
+          "airline_average_delay_mins": "6.19784169784172"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "242",
+          "airline_average_delay_mins": "4.96694209917355"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "848",
+          "airline_average_delay_mins": "4.08136797995283"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "532",
+          "airline_average_delay_mins": "3.8872179943609"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "132",
+          "airline_average_delay_mins": "3.788699100247"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "671",
+          "airline_average_delay_mins": "2.36065568703427"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "122",
+          "airline_average_delay_mins": "1.983607"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "377",
+          "airline_average_delay_mins": "0.241379294429708"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "207",
+          "airline_average_delay_mins": "0.018205473342"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-06",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "3517",
+          "airline_average_delay_mins": "6.24367361330679"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "1023",
+          "airline_average_delay_mins": "7.50733133528836"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "1056",
+          "airline_average_delay_mins": "5.80776514109848"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "991",
+          "airline_average_delay_mins": "4.01917263067608"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "494",
+          "airline_average_delay_mins": "3.97165992307692"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "287",
+          "airline_average_delay_mins": "2.51219497909407"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "338",
+          "airline_average_delay_mins": "2.02958578698224"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "545",
+          "airline_average_delay_mins": "1.80917430825688"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "291",
+          "airline_average_delay_mins": "1.2176407493725"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "460",
+          "airline_average_delay_mins": "0.676086804347826"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "321",
+          "airline_average_delay_mins": "0.2092574696239"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-07",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "8008",
+          "airline_average_delay_mins": "4.96053947065434"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2270",
+          "airline_average_delay_mins": "7.06211457973568"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "5227",
+          "airline_average_delay_mins": "4.40022960914482"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "1938",
+          "airline_average_delay_mins": "4.07120739267285"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "1668",
+          "airline_average_delay_mins": "3.59712226918465"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "610",
+          "airline_average_delay_mins": "3.26065598196721"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "734",
+          "airline_average_delay_mins": "2.6267030572207"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "10755",
+          "airline_average_delay_mins": "2.55741515806601"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "6195",
+          "airline_average_delay_mins": "2.4008070929782"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "652",
+          "airline_average_delay_mins": "1.03834352300613"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "205",
+          "airline_average_delay_mins": "0.9226773241558"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-08",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "11467",
+          "airline_average_delay_mins": "4.83421995072817"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2960",
+          "airline_average_delay_mins": "8.63378382905405"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "2136",
+          "airline_average_delay_mins": "6.62734079588015"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "8232",
+          "airline_average_delay_mins": "4.9204324382896"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "776",
+          "airline_average_delay_mins": "4.76159806958762"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "2615",
+          "airline_average_delay_mins": "4.16787768451242"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "18057",
+          "airline_average_delay_mins": "3.7142936606856"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "16937",
+          "airline_average_delay_mins": "2.47936470390269"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "1307",
+          "airline_average_delay_mins": "1.86534038867635"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "725",
+          "airline_average_delay_mins": "1.17931043724137"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "416",
+          "airline_average_delay_mins": "0.4996135930782"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-09",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "12346",
+          "airline_average_delay_mins": "3.36756847019277"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "3237",
+          "airline_average_delay_mins": "7.0244053021316"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "7460",
+          "airline_average_delay_mins": "4.18646115630026"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "2476",
+          "airline_average_delay_mins": "3.32350567447496"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "3107",
+          "airline_average_delay_mins": "2.68458322594142"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "790",
+          "airline_average_delay_mins": "2.62531675443037"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "1080",
+          "airline_average_delay_mins": "2.07870383148148"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "14634",
+          "airline_average_delay_mins": "1.90392238724887"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "13362",
+          "airline_average_delay_mins": "1.81836550598712"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "1618",
+          "airline_average_delay_mins": "1.56056864647713"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "12311",
+          "airline_average_delay_mins": "1.180389462248"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-10",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "10768",
+          "airline_average_delay_mins": "3.55711363484398"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "1836",
+          "airline_average_delay_mins": "11.6808278758169"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "11850",
+          "airline_average_delay_mins": "6.16194092616033"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "1786",
+          "airline_average_delay_mins": "5.80459135162374"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "3015",
+          "airline_average_delay_mins": "5.15887228325041"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "9064",
+          "airline_average_delay_mins": "2.34245364883053"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "1599",
+          "airline_average_delay_mins": "2.30769223389618"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "9794",
+          "airline_average_delay_mins": "2.21727587543393"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "817",
+          "airline_average_delay_mins": "1.71113830966952"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "1244",
+          "airline_average_delay_mins": "1.38906752170418"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "2901",
+          "airline_average_delay_mins": "0.8322992137194"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-11",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "6654",
+          "airline_average_delay_mins": "5.10955815299068"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "584",
+          "airline_average_delay_mins": "9.34760276541095"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "4278",
+          "airline_average_delay_mins": "8.2882187917251"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "577",
+          "airline_average_delay_mins": "7.60311963431542"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "1737",
+          "airline_average_delay_mins": "7.30512377950489"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "834",
+          "airline_average_delay_mins": "4.53117518105515"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "4411",
+          "airline_average_delay_mins": "2.74812969190659"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "969",
+          "airline_average_delay_mins": "2.44994839422084"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "375",
+          "airline_average_delay_mins": "2.09866669333333"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "1613",
+          "airline_average_delay_mins": "1.92746437631742"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "2409",
+          "airline_average_delay_mins": "1.7240654547965"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-12",
+      "airline_name_List": [
+        {
+          "airline_name": "others",
+          "number_flights_matched": "7581",
+          "airline_average_delay_mins": "9.56364596478037"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_matched": "796",
+          "airline_average_delay_mins": "21.4384422876884"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_matched": "5353",
+          "airline_average_delay_mins": "13.2430412706893"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_matched": "3487",
+          "airline_average_delay_mins": "11.1683395139088"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_matched": "1164",
+          "airline_average_delay_mins": "9.33591070274914"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_matched": "1589",
+          "airline_average_delay_mins": "9.18753934927627"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_matched": "311",
+          "airline_average_delay_mins": "6.44694543086816"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_matched": "882",
+          "airline_average_delay_mins": "6.43197291043083"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_matched": "5159",
+          "airline_average_delay_mins": "6.04109325450668"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_matched": "1325",
+          "airline_average_delay_mins": "3.5328302226415"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_matched": "1162",
+          "airline_average_delay_mins": "2.6967070525707"
+        }
+      ]
+    }
+  ],
+  "flights_cancelled_Arr": [
+    {
+      "yearsTime": "2019-01",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "460",
+          "number_flights_matched_x": "40073",
+          "airline_average_cancel": "0.011479051"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "382",
+          "number_flights_matched_x": "18276",
+          "airline_average_cancel": "0.020901729"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "244",
+          "number_flights_matched_x": "24694",
+          "airline_average_cancel": "0.009880943"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "115",
+          "number_flights_matched_x": "2970",
+          "airline_average_cancel": "0.038720539"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "93",
+          "number_flights_matched_x": "1924",
+          "airline_average_cancel": "0.048336798"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "75",
+          "number_flights_matched_x": "2240",
+          "airline_average_cancel": "0.033482143"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "38",
+          "number_flights_matched_x": "25023",
+          "airline_average_cancel": "0.001518603"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "34",
+          "number_flights_matched_x": "20356",
+          "airline_average_cancel": "0.001670269"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "16",
+          "number_flights_matched_x": "2708",
+          "airline_average_cancel": "0.005908419"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "12",
+          "number_flights_matched_x": "3984",
+          "airline_average_cancel": "0.003012048"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "2580",
+          "airline_average_cancel": "0.000775194"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-02",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "584",
+          "number_flights_matched_x": "36852",
+          "airline_average_cancel": "0.0158471724736785"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "481",
+          "number_flights_matched_x": "17807",
+          "airline_average_cancel": "0.0270118492727579"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "230",
+          "number_flights_matched_x": "23636",
+          "airline_average_cancel": "0.00973091893721441"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "85",
+          "number_flights_matched_x": "25600",
+          "airline_average_cancel": "0.0033203125"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "61",
+          "number_flights_matched_x": "2230",
+          "airline_average_cancel": "0.027354260089686"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "47",
+          "number_flights_matched_x": "1946",
+          "airline_average_cancel": "0.0241521068859198"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "32",
+          "number_flights_matched_x": "3695",
+          "airline_average_cancel": "0.00866035182679296"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "30",
+          "number_flights_matched_x": "2771",
+          "airline_average_cancel": "0.010826416456153"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "18",
+          "number_flights_matched_x": "18218",
+          "airline_average_cancel": "0.000988033812712701"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "3",
+          "number_flights_matched_x": "2903",
+          "airline_average_cancel": "0.00103341370995521"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "2396",
+          "airline_average_cancel": "0.000834724540901502"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-03",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "558",
+          "number_flights_matched_x": "40747",
+          "airline_average_cancel": "0.0136942597001006"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "527",
+          "number_flights_matched_x": "19872",
+          "airline_average_cancel": "0.0265197262479871"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "124",
+          "number_flights_matched_x": "3155",
+          "airline_average_cancel": "0.0393026941362916"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "76",
+          "number_flights_matched_x": "27141",
+          "airline_average_cancel": "0.00280019159205629"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "74",
+          "number_flights_matched_x": "29504",
+          "airline_average_cancel": "0.00250813449023861"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "44",
+          "number_flights_matched_x": "2527",
+          "airline_average_cancel": "0.0174119509299564"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "39",
+          "number_flights_matched_x": "2466",
+          "airline_average_cancel": "0.0158150851581508"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "31",
+          "number_flights_matched_x": "4198",
+          "airline_average_cancel": "0.00738446879466412"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "27",
+          "number_flights_matched_x": "20290",
+          "airline_average_cancel": "0.00133070478068013"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "4187",
+          "airline_average_cancel": "0.00143300692620014"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "0",
+          "number_flights_matched_x": "2601",
+          "airline_average_cancel": "0"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-04",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "386",
+          "number_flights_matched_x": "42116",
+          "airline_average_cancel": "0.00916516288346471"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "487",
+          "number_flights_matched_x": "20546",
+          "airline_average_cancel": "0.0237029105421979"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "93",
+          "number_flights_matched_x": "2974",
+          "airline_average_cancel": "0.0312710154673839"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "34",
+          "number_flights_matched_x": "28171",
+          "airline_average_cancel": "0.00120691491249866"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "28",
+          "number_flights_matched_x": "31368",
+          "airline_average_cancel": "0.000892629431267533"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "23",
+          "number_flights_matched_x": "4259",
+          "airline_average_cancel": "0.00540032871566095"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "21",
+          "number_flights_matched_x": "25353",
+          "airline_average_cancel": "0.000828304342681339"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "17",
+          "number_flights_matched_x": "2342",
+          "airline_average_cancel": "0.00725875320239111"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "7",
+          "number_flights_matched_x": "3232",
+          "airline_average_cancel": "0.00216584158415841"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "3",
+          "number_flights_matched_x": "5347",
+          "airline_average_cancel": "0.000561062277912848"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "0",
+          "number_flights_matched_x": "2814",
+          "airline_average_cancel": "0"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-05",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "300",
+          "number_flights_matched_x": "41406",
+          "airline_average_cancel": "0.00724532676423706"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "269",
+          "number_flights_matched_x": "20799",
+          "airline_average_cancel": "0.0129333141016395"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "187",
+          "number_flights_matched_x": "33305",
+          "airline_average_cancel": "0.00561477255667317"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "145",
+          "number_flights_matched_x": "26447",
+          "airline_average_cancel": "0.00548266344008772"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "138",
+          "number_flights_matched_x": "29140",
+          "airline_average_cancel": "0.00473575840768702"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "100",
+          "number_flights_matched_x": "3462",
+          "airline_average_cancel": "0.0288850375505488"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "34",
+          "number_flights_matched_x": "2344",
+          "airline_average_cancel": "0.0145051194539249"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "10",
+          "number_flights_matched_x": "3988",
+          "airline_average_cancel": "0.0025075225677031"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "8",
+          "number_flights_matched_x": "8801",
+          "airline_average_cancel": "0.000908987615043745"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "2927",
+          "airline_average_cancel": "0.00204988042364195"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "1",
+          "number_flights_matched_x": "2901",
+          "airline_average_cancel": "0.000344708721130644"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-06",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "277",
+          "number_flights_matched_x": "42648",
+          "airline_average_cancel": "0.0064950290752204"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "337",
+          "number_flights_matched_x": "20136",
+          "airline_average_cancel": "0.016736193881605"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "123",
+          "number_flights_matched_x": "28630",
+          "airline_average_cancel": "0.00429619280475026"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "109",
+          "number_flights_matched_x": "32697",
+          "airline_average_cancel": "0.00333363917178946"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "46",
+          "number_flights_matched_x": "3728",
+          "airline_average_cancel": "0.0123390557939914"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "31",
+          "number_flights_matched_x": "2230",
+          "airline_average_cancel": "0.0139013452914798"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "30",
+          "number_flights_matched_x": "3816",
+          "airline_average_cancel": "0.00786163522012578"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "20",
+          "number_flights_matched_x": "2795",
+          "airline_average_cancel": "0.0071556350626118"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "13",
+          "number_flights_matched_x": "2915",
+          "airline_average_cancel": "0.00445969125214408"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "8",
+          "number_flights_matched_x": "10205",
+          "airline_average_cancel": "0.000783929446349828"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "25221",
+          "airline_average_cancel": "0.000237896990603068"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-07",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "383",
+          "number_flights_matched_x": "44495",
+          "airline_average_cancel": "0.00860770873131812"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "515",
+          "number_flights_matched_x": "20021",
+          "airline_average_cancel": "0.0257229908595974"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "508",
+          "number_flights_matched_x": "33609",
+          "airline_average_cancel": "0.0151149989586122"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "488",
+          "number_flights_matched_x": "29457",
+          "airline_average_cancel": "0.0165665206911769"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "163",
+          "number_flights_matched_x": "3916",
+          "airline_average_cancel": "0.0416241062308478"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "58",
+          "number_flights_matched_x": "2867",
+          "airline_average_cancel": "0.0202302057900244"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "43",
+          "number_flights_matched_x": "25827",
+          "airline_average_cancel": "0.00166492430402292"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "27",
+          "number_flights_matched_x": "3948",
+          "airline_average_cancel": "0.00683890577507598"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "22",
+          "number_flights_matched_x": "2356",
+          "airline_average_cancel": "0.00933786078098472"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "17",
+          "number_flights_matched_x": "10872",
+          "airline_average_cancel": "0.00156364974245768"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "15",
+          "number_flights_matched_x": "3098",
+          "airline_average_cancel": "0.00484183344092963"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-08",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "369",
+          "number_flights_matched_x": "45000",
+          "airline_average_cancel": "0.0082"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "385",
+          "number_flights_matched_x": "29548",
+          "airline_average_cancel": "0.013029646676594"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "285",
+          "number_flights_matched_x": "34234",
+          "airline_average_cancel": "0.00832505696091604"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "220",
+          "number_flights_matched_x": "20910",
+          "airline_average_cancel": "0.010521281683405"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "40",
+          "number_flights_matched_x": "3914",
+          "airline_average_cancel": "0.0102197240674501"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "21",
+          "number_flights_matched_x": "3944",
+          "airline_average_cancel": "0.00532454361054766"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "18",
+          "number_flights_matched_x": "3213",
+          "airline_average_cancel": "0.00560224089635854"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "17",
+          "number_flights_matched_x": "25913",
+          "airline_average_cancel": "0.000656041369196928"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "14",
+          "number_flights_matched_x": "2389",
+          "airline_average_cancel": "0.00586019254918375"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "8",
+          "number_flights_matched_x": "2903",
+          "airline_average_cancel": "0.00275576989321391"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "11016",
+          "airline_average_cancel": "0.000544662309368191"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-09",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "611",
+          "number_flights_matched_x": "42006",
+          "airline_average_cancel": "0.0145455411131743"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "728",
+          "number_flights_matched_x": "25950",
+          "airline_average_cancel": "0.0280539499036608"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "240",
+          "number_flights_matched_x": "33458",
+          "airline_average_cancel": "0.00717317233546536"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "224",
+          "number_flights_matched_x": "19432",
+          "airline_average_cancel": "0.0115273775216138"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "157",
+          "number_flights_matched_x": "4004",
+          "airline_average_cancel": "0.0392107892107892"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "24",
+          "number_flights_matched_x": "2789",
+          "airline_average_cancel": "0.00860523485120114"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "22",
+          "number_flights_matched_x": "25025",
+          "airline_average_cancel": "0.000879120879120879"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "14",
+          "number_flights_matched_x": "3762",
+          "airline_average_cancel": "0.00372142477405635"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "9",
+          "number_flights_matched_x": "10147",
+          "airline_average_cancel": "0.000886961663545875"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "9",
+          "number_flights_matched_x": "2307",
+          "airline_average_cancel": "0.00390117035110533"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "3111",
+          "airline_average_cancel": "0.00192864030858244"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-10",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "325",
+          "number_flights_matched_x": "37815",
+          "airline_average_cancel": "0.00859447309268808"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "237",
+          "number_flights_matched_x": "28491",
+          "airline_average_cancel": "0.00831841634200273"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "204",
+          "number_flights_matched_x": "18132",
+          "airline_average_cancel": "0.0112508272667107"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "77",
+          "number_flights_matched_x": "32858",
+          "airline_average_cancel": "0.00234341712824882"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "49",
+          "number_flights_matched_x": "4215",
+          "airline_average_cancel": "0.0116251482799525"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "30",
+          "number_flights_matched_x": "3768",
+          "airline_average_cancel": "0.00796178343949044"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "22",
+          "number_flights_matched_x": "3080",
+          "airline_average_cancel": "0.00714285714285714"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "18",
+          "number_flights_matched_x": "24712",
+          "airline_average_cancel": "0.000728391065069601"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "16",
+          "number_flights_matched_x": "2859",
+          "airline_average_cancel": "0.00559636236446309"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "11",
+          "number_flights_matched_x": "2345",
+          "airline_average_cancel": "0.00469083155650319"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "1",
+          "number_flights_matched_x": "8655",
+          "airline_average_cancel": "0.000115540150202195"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-11",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "176",
+          "number_flights_matched_x": "33179",
+          "airline_average_cancel": "0.00530456011332469"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "181",
+          "number_flights_matched_x": "16232",
+          "airline_average_cancel": "0.011150813208477"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "95",
+          "number_flights_matched_x": "25249",
+          "airline_average_cancel": "0.00376252524852469"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "68",
+          "number_flights_matched_x": "2227",
+          "airline_average_cancel": "0.0305343511450381"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "60",
+          "number_flights_matched_x": "4079",
+          "airline_average_cancel": "0.0147094876195145"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "25",
+          "number_flights_matched_x": "23850",
+          "airline_average_cancel": "0.0010482180293501"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "22",
+          "number_flights_matched_x": "18724",
+          "airline_average_cancel": "0.00117496261482589"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "13",
+          "number_flights_matched_x": "3499",
+          "airline_average_cancel": "0.00371534724206916"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "4224",
+          "airline_average_cancel": "0.00142045454545454"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "4",
+          "number_flights_matched_x": "2660",
+          "airline_average_cancel": "0.00150375939849624"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "3",
+          "number_flights_matched_x": "2471",
+          "airline_average_cancel": "0.00121408336705787"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019-12",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "223",
+          "number_flights_matched_x": "33989",
+          "airline_average_cancel": "0.00656094618847274"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "271",
+          "number_flights_matched_x": "28073",
+          "airline_average_cancel": "0.0096534036262601"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "232",
+          "number_flights_matched_x": "25435",
+          "airline_average_cancel": "0.00912128956162767"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "198",
+          "number_flights_matched_x": "15684",
+          "airline_average_cancel": "0.0126243305279265"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "97",
+          "number_flights_matched_x": "3652",
+          "airline_average_cancel": "0.0265607886089813"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "69",
+          "number_flights_matched_x": "19471",
+          "airline_average_cancel": "0.00354373170355913"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "31",
+          "number_flights_matched_x": "3541",
+          "airline_average_cancel": "0.00875458909912454"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "18",
+          "number_flights_matched_x": "3044",
+          "airline_average_cancel": "0.00591327201051248"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "14",
+          "number_flights_matched_x": "2119",
+          "airline_average_cancel": "0.00660689004247286"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "8",
+          "number_flights_matched_x": "2699",
+          "airline_average_cancel": "0.00296406076324564"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "3",
+          "number_flights_matched_x": "3646",
+          "airline_average_cancel": "0.000822819528250137"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-01",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "427",
+          "number_flights_matched_x": "37756",
+          "airline_average_cancel": "0.0113094607479605"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "297",
+          "number_flights_matched_x": "15627",
+          "airline_average_cancel": "0.0190055672873872"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "149",
+          "number_flights_matched_x": "3418",
+          "airline_average_cancel": "0.0435927442949093"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "102",
+          "number_flights_matched_x": "25102",
+          "airline_average_cancel": "0.00406342124133535"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "68",
+          "number_flights_matched_x": "23965",
+          "airline_average_cancel": "0.00283747131233048"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "31",
+          "number_flights_matched_x": "19404",
+          "airline_average_cancel": "0.00159760874046588"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "22",
+          "number_flights_matched_x": "3628",
+          "airline_average_cancel": "0.00606394707828004"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "21",
+          "number_flights_matched_x": "2277",
+          "airline_average_cancel": "0.00922266139657444"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "21",
+          "number_flights_matched_x": "2811",
+          "airline_average_cancel": "0.00747065101387406"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "16",
+          "number_flights_matched_x": "3215",
+          "airline_average_cancel": "0.00497667185069984"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "5",
+          "number_flights_matched_x": "3275",
+          "airline_average_cancel": "0.0015267175572519"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-02",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "1021",
+          "number_flights_matched_x": "35330",
+          "airline_average_cancel": "0.0288989527313897"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "1028",
+          "number_flights_matched_x": "23823",
+          "airline_average_cancel": "0.0431515762078663"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "982",
+          "number_flights_matched_x": "24757",
+          "airline_average_cancel": "0.0396655491376176"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "460",
+          "number_flights_matched_x": "15669",
+          "airline_average_cancel": "0.0293573297593975"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "146",
+          "number_flights_matched_x": "2323",
+          "airline_average_cancel": "0.0628497632371932"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "135",
+          "number_flights_matched_x": "18077",
+          "airline_average_cancel": "0.00746805332743264"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "125",
+          "number_flights_matched_x": "2808",
+          "airline_average_cancel": "0.0445156695156695"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "101",
+          "number_flights_matched_x": "3317",
+          "airline_average_cancel": "0.030449201085318"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "94",
+          "number_flights_matched_x": "3458",
+          "airline_average_cancel": "0.0271833429728166"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "75",
+          "number_flights_matched_x": "3826",
+          "airline_average_cancel": "0.0196027182435964"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "33",
+          "number_flights_matched_x": "2460",
+          "airline_average_cancel": "0.0134146341463414"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-03",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "3305",
+          "number_flights_matched_x": "23229",
+          "airline_average_cancel": "0.142279047742046"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "1856",
+          "number_flights_matched_x": "17403",
+          "airline_average_cancel": "0.10664827903235"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "1420",
+          "number_flights_matched_x": "11930",
+          "airline_average_cancel": "0.119027661357921"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "1218",
+          "number_flights_matched_x": "16935",
+          "airline_average_cancel": "0.0719220549158547"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "1209",
+          "number_flights_matched_x": "1837",
+          "airline_average_cancel": "0.658138268916712"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "311",
+          "number_flights_matched_x": "1893",
+          "airline_average_cancel": "0.164289487585842"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "273",
+          "number_flights_matched_x": "2522",
+          "airline_average_cancel": "0.108247422680412"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "255",
+          "number_flights_matched_x": "2022",
+          "airline_average_cancel": "0.126112759643916"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "232",
+          "number_flights_matched_x": "1760",
+          "airline_average_cancel": "0.131818181818181"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "178",
+          "number_flights_matched_x": "1200",
+          "airline_average_cancel": "0.148333333333333"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "118",
+          "number_flights_matched_x": "3041",
+          "airline_average_cancel": "0.0388030253206182"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-04",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "162",
+          "number_flights_matched_x": "2224",
+          "airline_average_cancel": "0.072841726618705"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "144",
+          "number_flights_matched_x": "262",
+          "airline_average_cancel": "0.549618320610687"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "61",
+          "number_flights_matched_x": "1112",
+          "airline_average_cancel": "0.0548561151079136"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "32",
+          "number_flights_matched_x": "1348",
+          "airline_average_cancel": "0"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "24",
+          "number_flights_matched_x": "180",
+          "airline_average_cancel": "0.133333333333333"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "24",
+          "number_flights_matched_x": "644",
+          "airline_average_cancel": "0.0372670807453416"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "20",
+          "number_flights_matched_x": "459",
+          "airline_average_cancel": "0.0435729847494553"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "16",
+          "number_flights_matched_x": "120",
+          "airline_average_cancel": "0"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "9",
+          "number_flights_matched_x": "362",
+          "airline_average_cancel": "0.0248618784530386"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "5",
+          "number_flights_matched_x": "389",
+          "airline_average_cancel": "0"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "4",
+          "number_flights_matched_x": "124",
+          "airline_average_cancel": "0"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-05",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "86",
+          "number_flights_matched_x": "2164",
+          "airline_average_cancel": "0.0397412199630314"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "29",
+          "number_flights_matched_x": "671",
+          "airline_average_cancel": "0.0432190760059612"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "24",
+          "number_flights_matched_x": "278",
+          "airline_average_cancel": "0.0863309352517985"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "12",
+          "number_flights_matched_x": "580",
+          "airline_average_cancel": "0.02068965517"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "10",
+          "number_flights_matched_x": "1221",
+          "airline_average_cancel": "0.00819000819"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "848",
+          "airline_average_cancel": "0.0070754716981132"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "973",
+          "airline_average_cancel": "0.00616649538"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "3",
+          "number_flights_matched_x": "532",
+          "airline_average_cancel": "0.0056390977443609"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "377",
+          "airline_average_cancel": "0.00530503979"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "242",
+          "airline_average_cancel": "0.00826446281"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "1",
+          "number_flights_matched_x": "122",
+          "airline_average_cancel": "0.00819672131"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-06",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "125",
+          "number_flights_matched_x": "3517",
+          "airline_average_cancel": "0.0355416548194484"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "76",
+          "number_flights_matched_x": "494",
+          "airline_average_cancel": "0.153846153846153"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "63",
+          "number_flights_matched_x": "1023",
+          "airline_average_cancel": "0.0615835777126099"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "31",
+          "number_flights_matched_x": "460",
+          "airline_average_cancel": "0.06739130435"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "20",
+          "number_flights_matched_x": "540",
+          "airline_average_cancel": "0.03703703704"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "10",
+          "number_flights_matched_x": "338",
+          "airline_average_cancel": "0.02958579882"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "8",
+          "number_flights_matched_x": "532",
+          "airline_average_cancel": "0.01503759398"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "3",
+          "number_flights_matched_x": "991",
+          "airline_average_cancel": "0.00302724521"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "1056",
+          "airline_average_cancel": "0.00189393939"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "1",
+          "number_flights_matched_x": "545",
+          "airline_average_cancel": "0.00183486239"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "1",
+          "number_flights_matched_x": "287",
+          "airline_average_cancel": "0.00348432056"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-07",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "194",
+          "number_flights_matched_x": "8008",
+          "airline_average_cancel": "0.0242257742257742"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "128",
+          "number_flights_matched_x": "1668",
+          "airline_average_cancel": "0.0767386091127098"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "123",
+          "number_flights_matched_x": "2270",
+          "airline_average_cancel": "0.0541850220264317"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "73",
+          "number_flights_matched_x": "5227",
+          "airline_average_cancel": "0.013965946049359"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "46",
+          "number_flights_matched_x": "10755",
+          "airline_average_cancel": "0.00427708042770804"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "32",
+          "number_flights_matched_x": "1938",
+          "airline_average_cancel": "0.0165118679050567"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "13",
+          "number_flights_matched_x": "6195",
+          "airline_average_cancel": "0.00209846650524616"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "8",
+          "number_flights_matched_x": "610",
+          "airline_average_cancel": "0.0131147540983606"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "4",
+          "number_flights_matched_x": "652",
+          "airline_average_cancel": "0.00613496933"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "734",
+          "airline_average_cancel": "0.02739726027"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "1",
+          "number_flights_matched_x": "789",
+          "airline_average_cancel": "0.00126742712"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-08",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "126",
+          "number_flights_matched_x": "11467",
+          "airline_average_cancel": "0.0109880526728874"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "177",
+          "number_flights_matched_x": "2615",
+          "airline_average_cancel": "0.0676864244741873"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "135",
+          "number_flights_matched_x": "2136",
+          "airline_average_cancel": "0.0632022471910112"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "65",
+          "number_flights_matched_x": "16937",
+          "airline_average_cancel": "0.00383775166794591"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "31",
+          "number_flights_matched_x": "8232",
+          "airline_average_cancel": "0.00376579203109815"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "31",
+          "number_flights_matched_x": "18057",
+          "airline_average_cancel": "0.00171678573406435"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "5",
+          "number_flights_matched_x": "2960",
+          "airline_average_cancel": "0.00168918918918918"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "4",
+          "number_flights_matched_x": "652",
+          "airline_average_cancel": "0.00613496933"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "1307",
+          "airline_average_cancel": "0.00153022188217291"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "776",
+          "airline_average_cancel": "0.00257731958762886"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "1",
+          "number_flights_matched_x": "725",
+          "airline_average_cancel": "0.00137931034482758"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-09",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "219",
+          "number_flights_matched_x": "12346",
+          "airline_average_cancel": "0.0177385387979912"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "318",
+          "number_flights_matched_x": "3237",
+          "airline_average_cancel": "0.098239110287303"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "78",
+          "number_flights_matched_x": "3107",
+          "airline_average_cancel": "0.0251046025104602"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "28",
+          "number_flights_matched_x": "7460",
+          "airline_average_cancel": "0.00375335120643431"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "22",
+          "number_flights_matched_x": "14634",
+          "airline_average_cancel": "0.001503348366817"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "20",
+          "number_flights_matched_x": "13362",
+          "airline_average_cancel": "0.00149678191887442"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "13",
+          "number_flights_matched_x": "1618",
+          "airline_average_cancel": "0.00803461063040791"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "2476",
+          "airline_average_cancel": "0.0024232633279483"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "4",
+          "number_flights_matched_x": "790",
+          "airline_average_cancel": "0.0050632911392405"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "1",
+          "number_flights_matched_x": "1080",
+          "airline_average_cancel": "0.000925925925925926"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "1",
+          "number_flights_matched_x": "725",
+          "airline_average_cancel": "0.0008632034619201"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-10",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "201",
+          "number_flights_matched_x": "10768",
+          "airline_average_cancel": "0.0186664190193164"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "324",
+          "number_flights_matched_x": "3015",
+          "airline_average_cancel": "0.107462686567164"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "163",
+          "number_flights_matched_x": "11850",
+          "airline_average_cancel": "0.0137552742616033"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "82",
+          "number_flights_matched_x": "1836",
+          "airline_average_cancel": "0.0446623093681917"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "61",
+          "number_flights_matched_x": "9064",
+          "airline_average_cancel": "0.00672992056487202"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "23",
+          "number_flights_matched_x": "9794",
+          "airline_average_cancel": "0.00234837655707576"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "7",
+          "number_flights_matched_x": "1244",
+          "airline_average_cancel": "0.00562700964630225"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "817",
+          "airline_average_cancel": "0.00734394124847001"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "1599",
+          "airline_average_cancel": "0.00125078173858661"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "1786",
+          "airline_average_cancel": "0"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "1",
+          "number_flights_matched_x": "283",
+          "airline_average_cancel": "0"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-11",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "115",
+          "number_flights_matched_x": "6654",
+          "airline_average_cancel": "0.0172828373910429"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "247",
+          "number_flights_matched_x": "4278",
+          "airline_average_cancel": "0.057737260402057"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "116",
+          "number_flights_matched_x": "1737",
+          "airline_average_cancel": "0.0667818077144502"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "91",
+          "number_flights_matched_x": "584",
+          "airline_average_cancel": "0.155821917808219"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "45",
+          "number_flights_matched_x": "4411",
+          "airline_average_cancel": "0.0102017683065064"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "15",
+          "number_flights_matched_x": "1613",
+          "airline_average_cancel": "0.00929944203347799"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "15",
+          "number_flights_matched_x": "577",
+          "airline_average_cancel": "0.0259965337954939"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "12",
+          "number_flights_matched_x": "969",
+          "airline_average_cancel": "0.0123839009287925"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "6",
+          "number_flights_matched_x": "834",
+          "airline_average_cancel": "0.00719424460431654"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "5",
+          "number_flights_matched_x": "849",
+          "airline_average_cancel": "0"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "2",
+          "number_flights_matched_x": "293",
+          "airline_average_cancel": "0"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020-12",
+      "flights_cancelled_List": [
+        {
+          "airline_name": "others",
+          "number_flights_cancelled": "621",
+          "number_flights_matched_x": "7581",
+          "airline_average_cancel": "0.0807281361297981"
+        },
+        {
+          "airline_name": "RYANAIR",
+          "number_flights_cancelled": "673",
+          "number_flights_matched_x": "3487",
+          "airline_average_cancel": "0.193002581015199"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "number_flights_cancelled": "582",
+          "number_flights_matched_x": "1164",
+          "airline_average_cancel": "0.5"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "number_flights_cancelled": "280",
+          "number_flights_matched_x": "5353",
+          "airline_average_cancel": "0.0523071175042032"
+        },
+        {
+          "airline_name": "LOGANAIR LTD",
+          "number_flights_cancelled": "140",
+          "number_flights_matched_x": "1589",
+          "airline_average_cancel": "0.0881057268722467"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "number_flights_cancelled": "103",
+          "number_flights_matched_x": "796",
+          "airline_average_cancel": "0.129396984924623"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "number_flights_cancelled": "97",
+          "number_flights_matched_x": "5159",
+          "airline_average_cancel": "0.0188020934289591"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "number_flights_cancelled": "96",
+          "number_flights_matched_x": "1325",
+          "airline_average_cancel": "0.0724528301886792"
+        },
+        {
+          "airline_name": "KLM",
+          "number_flights_cancelled": "36",
+          "number_flights_matched_x": "882",
+          "airline_average_cancel": "0.0408163265306122"
+        },
+        {
+          "airline_name": "LUFTHANSA",
+          "number_flights_cancelled": "34",
+          "number_flights_matched_x": "311",
+          "airline_average_cancel": "0.109324758842443"
+        },
+        {
+          "airline_name": "FLYBE LTD",
+          "number_flights_cancelled": "28",
+          "number_flights_matched_x": "293",
+          "airline_average_cancel": "0"
+        }
+      ]
+    }
+  ],
+  "number_flights_matched_Arr": [
+    {
+      "yearsTime": "2019-01",
+      "number_flights_matched": "144828"
+    },
+    {
+      "yearsTime": "2019-02",
+      "number_flights_matched": "138054"
+    },
+    {
+      "yearsTime": "2019-03",
+      "number_flights_matched": "156688"
+    },
+    {
+      "yearsTime": "2019-04",
+      "number_flights_matched": "168522"
+    },
+    {
+      "yearsTime": "2019-05",
+      "number_flights_matched": "175520"
+    },
+    {
+      "yearsTime": "2019-06",
+      "number_flights_matched": "175021"
+    },
+    {
+      "yearsTime": "2019-07",
+      "number_flights_matched": "180466"
+    },
+    {
+      "yearsTime": "2019-08",
+      "number_flights_matched": "182984"
+    },
+    {
+      "yearsTime": "2019-09",
+      "number_flights_matched": "171991"
+    },
+    {
+      "yearsTime": "2019-10",
+      "number_flights_matched": "166930"
+    },
+    {
+      "yearsTime": "2019-11",
+      "number_flights_matched": "136394"
+    },
+    {
+      "yearsTime": "2019-12",
+      "number_flights_matched": "141353"
+    },
+    {
+      "yearsTime": "2020-01",
+      "number_flights_matched": "140478"
+    },
+    {
+      "yearsTime": "2020-02",
+      "number_flights_matched": "135848"
+    },
+    {
+      "yearsTime": "2020-03",
+      "number_flights_matched": "83772"
+    },
+    {
+      "yearsTime": "2020-04",
+      "number_flights_matched": "5363"
+    },
+    {
+      "yearsTime": "2020-05",
+      "number_flights_matched": "5234"
+    },
+    {
+      "yearsTime": "2020-06",
+      "number_flights_matched": "8711"
+    },
+    {
+      "yearsTime": "2020-07",
+      "number_flights_matched": "38057"
+    },
+    {
+      "yearsTime": "2020-08",
+      "number_flights_matched": "65212"
+    },
+    {
+      "yearsTime": "2020-09",
+      "number_flights_matched": "60110"
+    },
+    {
+      "yearsTime": "2020-10",
+      "number_flights_matched": "51773"
+    },
+    {
+      "yearsTime": "2020-11",
+      "number_flights_matched": "22032"
+    },
+    {
+      "yearsTime": "2020-12",
+      "number_flights_matched": "27647"
+    }
+  ],
+  "predict_top_Arr":[
+    {
+      "yearsTime": "2022-01",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "17.3022639625954",
+          "predict": "12.5023308689944"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "10.1892613333333",
+          "predict": "19.0087815257904"
+        },
+        {
+          "airline_name": "AIR ALGERIE",
+          "agg_average_delay": "22.222222",
+          "predict": "12.5611817047435"
+        },
+        {
+          "airline_name": "EXCEL AVIATION",
+          "agg_average_delay": "0",
+          "predict": "12.0688117303411"
+        },
+        {
+          "airline_name": "AIR ASTANA",
+          "agg_average_delay": "19.625",
+          "predict": "10.2879852462062"
+        },
+        {
+          "airline_name": "AIR EUROPA",
+          "agg_average_delay": "4.475",
+          "predict": "8.76403210357663"
+        },
+        {
+          "airline_name": "AIR CANADA",
+          "agg_average_delay": "8.595377",
+          "predict": "8.05339060338824"
+        },
+        {
+          "airline_name": "AEROFLOT",
+          "agg_average_delay": "13.177778",
+          "predict": "6.98151234128518"
+        },
+        {
+          "airline_name": "AIR BALTIC",
+          "agg_average_delay": "5.372172",
+          "predict": "6.75167319239372"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "1.6130416959783",
+          "predict": "6.01848282030629"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "3.9466664",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-02",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "16.3562657311027",
+          "predict": "12.2953405483447"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "15.9597826666666",
+          "predict": "19.0087815257904"
+        },
+        {
+          "airline_name": "AIR ALGERIE",
+          "agg_average_delay": "43.4375",
+          "predict": "12.5611817047435"
+        },
+        {
+          "airline_name": "AIR ALLIANCE EXPRESS",
+          "agg_average_delay": "8",
+          "predict": "11.1480732953515"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "5.33676449999999",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AIR CANADA",
+          "agg_average_delay": "7.574074",
+          "predict": "8.05339060338824"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "25.166667",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AEROFLOT",
+          "agg_average_delay": "7.323529",
+          "predict": "6.98151234128518"
+        },
+        {
+          "airline_name": "AIR BALTIC",
+          "agg_average_delay": "10.8541665",
+          "predict": "6.75167319239372"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "5.42193240355934",
+          "predict": "6.60040583336668"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "5.293103",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-03",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "14.9930400545619",
+          "predict": "12.759503248518"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "10.6813406666666",
+          "predict": "19.0087815257904"
+        },
+        {
+          "airline_name": "AIR ALBANIA SHPK",
+          "agg_average_delay": "5.5",
+          "predict": "14.2765256490812"
+        },
+        {
+          "airline_name": "AIR ALGERIE",
+          "agg_average_delay": "24.722222",
+          "predict": "12.5611817047435"
+        },
+        {
+          "airline_name": "AIR ASTANA",
+          "agg_average_delay": "21.416667",
+          "predict": "10.2879852462062"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "1.6035716",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AIR CANADA",
+          "agg_average_delay": "14.53033075",
+          "predict": "8.05339060338824"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "2.833333",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AIR BALTIC",
+          "agg_average_delay": "4.18871158536585",
+          "predict": "6.21912040460456"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "3.68916740935556",
+          "predict": "5.90997662622537"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "3.0185184691358",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-04",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "20.5867643337958",
+          "predict": "12.5525813262744"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "7.21833466666666",
+          "predict": "19.0087815257904"
+        },
+        {
+          "airline_name": "AIR ALBANIA SHPK",
+          "agg_average_delay": "36.25",
+          "predict": "14.2765256490812"
+        },
+        {
+          "airline_name": "AIR ALGERIE",
+          "agg_average_delay": "17.625",
+          "predict": "12.5611817047435"
+        },
+        {
+          "airline_name": "AIR ASTANA",
+          "agg_average_delay": "17.166667",
+          "predict": "10.2879852462062"
+        },
+        {
+          "airline_name": "AEROMEXICO",
+          "agg_average_delay": "15.0869569999999",
+          "predict": "9.2894875656731"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "5.71102925098039",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "5",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "11.8118541280744",
+          "predict": "6.65141260518865"
+        },
+        {
+          "airline_name": "AIR BALTIC",
+          "agg_average_delay": "18.182272522388",
+          "predict": "6.21912040460456"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "6.49519199999999",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-05",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "21.6138375906777",
+          "predict": "12.4843998998007"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "6.58141766666666",
+          "predict": "19.0087815257904"
+        },
+        {
+          "airline_name": "AIR ALBANIA SHPK",
+          "agg_average_delay": "20.05",
+          "predict": "14.2765256490812"
+        },
+        {
+          "airline_name": "AIR ALGERIE",
+          "agg_average_delay": "37.09375",
+          "predict": "12.5611817047435"
+        },
+        {
+          "airline_name": "AIR ALSIE",
+          "agg_average_delay": "10",
+          "predict": "12.0688117303411"
+        },
+        {
+          "airline_name": "AIR ASTANA",
+          "agg_average_delay": "21.625",
+          "predict": "10.2879852462062"
+        },
+        {
+          "airline_name": "AEROMEXICO",
+          "agg_average_delay": "12.916667",
+          "predict": "9.2894875656731"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "9.81666847653429",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "21.727273",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "10.662517542306",
+          "predict": "6.19725978641514"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "12.5260665829383",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-06",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "29.3895544502143",
+          "predict": "12.67020362748"
+        },
+        {
+          "airline_name": "AIR ALBANIA SHPK",
+          "agg_average_delay": "62.1875",
+          "predict": "14.2765256490812"
+        },
+        {
+          "airline_name": "AIR ALGERIE",
+          "agg_average_delay": "54.5",
+          "predict": "12.5611817047435"
+        },
+        {
+          "airline_name": "AIR ALSIE",
+          "agg_average_delay": "13.75",
+          "predict": "12.0688117303411"
+        },
+        {
+          "airline_name": "AIR ASTANA",
+          "agg_average_delay": "43.5",
+          "predict": "10.2879852462062"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "12.4818005",
+          "predict": "10.0513374343497"
+        },
+        {
+          "airline_name": "AEROMEXICO",
+          "agg_average_delay": "12.366667",
+          "predict": "9.2894875656731"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "20.9007743843283",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "26.884615",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "19.4645034430562",
+          "predict": "6.74894548017737"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "25.8266665955555",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-07",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "31.9659777064598",
+          "predict": "12.231274951559"
+        },
+        {
+          "airline_name": "AIR ALBANIA SHPK",
+          "agg_average_delay": "32.333333",
+          "predict": "14.2765256490812"
+        },
+        {
+          "airline_name": "AIR ALGERIE",
+          "agg_average_delay": "35.5",
+          "predict": "12.5611817047435"
+        },
+        {
+          "airline_name": "AIR ALSIE",
+          "agg_average_delay": "16.6666664999999",
+          "predict": "12.0688117303411"
+        },
+        {
+          "airline_name": "AIR ASTANA",
+          "agg_average_delay": "44.961538",
+          "predict": "10.2879852462062"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "20.9306995",
+          "predict": "10.0513374343497"
+        },
+        {
+          "airline_name": "AEROMEXICO",
+          "agg_average_delay": "7.370968",
+          "predict": "9.2894875656731"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "16.6093525647482",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "14.1289099007751",
+          "predict": "8.03710360577954"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "36.384615",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "24.1538463376068",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-08",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "21.9447906803302",
+          "predict": "12.297221491037"
+        },
+        {
+          "airline_name": "AIR ALBANIA SHPK",
+          "agg_average_delay": "58.033333",
+          "predict": "14.2765256490812"
+        },
+        {
+          "airline_name": "AIR ALSIE",
+          "agg_average_delay": "4.4166665",
+          "predict": "12.0688117303411"
+        },
+        {
+          "airline_name": "AIR ASTANA",
+          "agg_average_delay": "17.576923",
+          "predict": "10.2879852462062"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "16.9888765",
+          "predict": "10.0513374343497"
+        },
+        {
+          "airline_name": "AEROMEXICO",
+          "agg_average_delay": "4.112903",
+          "predict": "9.2894875656731"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "16.4669213314745",
+          "predict": "8.52859464541729"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "7.2627016",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "34.346154",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AIR BALTIC",
+          "agg_average_delay": "42.0504908518518",
+          "predict": "6.21912040460456"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "15.8535563514644",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-09",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "23.9025911571502",
+          "predict": "12.1770147004341"
+        },
+        {
+          "airline_name": "EXCEL AVIATION",
+          "agg_average_delay": "0",
+          "predict": "24.5903135955223"
+        },
+        {
+          "airline_name": "AIR ALBANIA SHPK",
+          "agg_average_delay": "27.78125",
+          "predict": "14.2765256490812"
+        },
+        {
+          "airline_name": "AIR ALSIE",
+          "agg_average_delay": "2.5",
+          "predict": "12.0688117303411"
+        },
+        {
+          "airline_name": "AIR ALLIANCE EXPRESS",
+          "agg_average_delay": "19",
+          "predict": "11.1385224704889"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "46.4749124999999",
+          "predict": "10.0513374343497"
+        },
+        {
+          "airline_name": "AEROMEXICO",
+          "agg_average_delay": "23.333333",
+          "predict": "9.2894875656731"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "16.6527405874524",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "15.0611801603041",
+          "predict": "8.13308194903128"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "30.115385",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "17.1666667117117",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-10",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "20.9607301875343",
+          "predict": "12.0668977781329"
+        },
+        {
+          "airline_name": "AIR ALBANIA SHPK",
+          "agg_average_delay": "1.875",
+          "predict": "14.2765256490812"
+        },
+        {
+          "airline_name": "AIR ALSIE",
+          "agg_average_delay": "16.4333335",
+          "predict": "12.0688117303411"
+        },
+        {
+          "airline_name": "AIR ASTANA",
+          "agg_average_delay": "25.444444",
+          "predict": "10.2879852462062"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "10.1539089999999",
+          "predict": "10.0513374343497"
+        },
+        {
+          "airline_name": "AEROMEXICO",
+          "agg_average_delay": "1.306452",
+          "predict": "9.2894875656731"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "4.24108505038759",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "13.2172480902192",
+          "predict": "8.13308194903128"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "7.769231",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AIR BALTIC",
+          "agg_average_delay": "27.35",
+          "predict": "6.75167319239372"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "14.573913",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-11",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "13.9907544558313",
+          "predict": "11.9854576922993"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "33.2464283333333",
+          "predict": "19.0087815257904"
+        },
+        {
+          "airline_name": "AIR ALBANIA SHPK",
+          "agg_average_delay": "1.5",
+          "predict": "14.2765256490812"
+        },
+        {
+          "airline_name": "AIR ALGERIE",
+          "agg_average_delay": "17.2619045238095",
+          "predict": "12.5611817047435"
+        },
+        {
+          "airline_name": "AIR ASTANA",
+          "agg_average_delay": "12.6",
+          "predict": "10.2879852462062"
+        },
+        {
+          "airline_name": "AEROMEXICO",
+          "agg_average_delay": "0.75",
+          "predict": "9.2894875656731"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "6.00397107058823",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "14.8419405172821",
+          "predict": "8.13308194903128"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "25.3125",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AIR BALTIC",
+          "agg_average_delay": "12.7925824999999",
+          "predict": "6.75167319239372"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "8.55140186915887",
+          "predict": "4.5146289487565"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022-12",
+      "predict_top_List": [
+        {
+          "airline_name": "others_mean",
+          "agg_average_delay": "27.7389471332413",
+          "predict": "12.1708699110137"
+        },
+        {
+          "airline_name": "QATAR AIRWAYS",
+          "agg_average_delay": "32.4260796666666",
+          "predict": "19.0087815257904"
+        },
+        {
+          "airline_name": "AEROITALIA SRL",
+          "agg_average_delay": "46.1785715",
+          "predict": "16.9450125689068"
+        },
+        {
+          "airline_name": "AIR ALBANIA SHPK",
+          "agg_average_delay": "22.428571",
+          "predict": "14.2765256490812"
+        },
+        {
+          "airline_name": "AIR ALGERIE",
+          "agg_average_delay": "22",
+          "predict": "12.5611817047435"
+        },
+        {
+          "airline_name": "AEROMEXICO",
+          "agg_average_delay": "8.677419",
+          "predict": "9.2894875656731"
+        },
+        {
+          "airline_name": "AIR ALLIANCE EXPRESS",
+          "agg_average_delay": "7.66666666666666",
+          "predict": "9.13343568345913"
+        },
+        {
+          "airline_name": "ITALIA TRASPOTO AEREO",
+          "agg_average_delay": "12.3487592319148",
+          "predict": "8.36471106777187"
+        },
+        {
+          "airline_name": "AER LINGUS",
+          "agg_average_delay": "20.9965255377842",
+          "predict": "8.13308194903128"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "agg_average_delay": "28.692308",
+          "predict": "8.01209218997487"
+        },
+        {
+          "airline_name": "AEGEAN AIRLINES",
+          "agg_average_delay": "15.3565217956521",
+          "predict": "4.5146289487565"
+        }
+      ]
+    }
+  ],
+  "passenger_complaint_Arr": [
+    {
+      "yearsTime": "2019Q1",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "BH Air",
+          "complaints_per_million": "48649"
+        },
+        {
+          "airline_name": "ASL Airlines",
+          "complaints_per_million": "9940"
+        },
+        {
+          "airline_name": "Primera Air",
+          "complaints_per_million": "4813"
+        },
+        {
+          "airline_name": "Volotea",
+          "complaints_per_million": "1018"
+        },
+        {
+          "airline_name": "Transavia",
+          "complaints_per_million": "850"
+        },
+        {
+          "airline_name": "BMI Regional",
+          "complaints_per_million": "806"
+        },
+        {
+          "airline_name": "Air Arabia",
+          "complaints_per_million": "775"
+        },
+        {
+          "airline_name": "Freebird Airlines",
+          "complaints_per_million": "758"
+        },
+        {
+          "airline_name": "Norwegian",
+          "complaints_per_million": "553"
+        },
+        {
+          "airline_name": "TAP Portugal",
+          "complaints_per_million": "481"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019Q2",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "Volotea",
+          "complaints_per_million": "3521"
+        },
+        {
+          "airline_name": "Air Mauritius",
+          "complaints_per_million": "1177"
+        },
+        {
+          "airline_name": "Edelweiss Air",
+          "complaints_per_million": "939"
+        },
+        {
+          "airline_name": "Freebird Airlines",
+          "complaints_per_million": "732"
+        },
+        {
+          "airline_name": "Norwegian",
+          "complaints_per_million": "679"
+        },
+        {
+          "airline_name": "Air France",
+          "complaints_per_million": "512"
+        },
+        {
+          "airline_name": "ASL Airlines",
+          "complaints_per_million": "475"
+        },
+        {
+          "airline_name": "Air Arabia",
+          "complaints_per_million": "469"
+        },
+        {
+          "airline_name": "Iberia",
+          "complaints_per_million": "367"
+        },
+        {
+          "airline_name": "TAP Portugal",
+          "complaints_per_million": "336"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019Q3",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "ASL Airlines",
+          "complaints_per_million": "6969"
+        },
+        {
+          "airline_name": "Mistral Air",
+          "complaints_per_million": "2994"
+        },
+        {
+          "airline_name": "Adria Airways",
+          "complaints_per_million": "1533"
+        },
+        {
+          "airline_name": "Hi Fly",
+          "complaints_per_million": "1351"
+        },
+        {
+          "airline_name": "Neos SPA",
+          "complaints_per_million": "1318"
+        },
+        {
+          "airline_name": "Blue Panorama",
+          "complaints_per_million": "1129"
+        },
+        {
+          "airline_name": "Sata",
+          "complaints_per_million": "1011"
+        },
+        {
+          "airline_name": "Montenegro Airlines",
+          "complaints_per_million": "999"
+        },
+        {
+          "airline_name": "Alba Star",
+          "complaints_per_million": "981"
+        },
+        {
+          "airline_name": "Air Mauritius",
+          "complaints_per_million": "512"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2019Q4",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "FlyBosnia",
+          "complaints_per_million": "2538"
+        },
+        {
+          "airline_name": "Sata",
+          "complaints_per_million": "953"
+        },
+        {
+          "airline_name": "Garuda Indonesia",
+          "complaints_per_million": "735"
+        },
+        {
+          "airline_name": "Adria Airways",
+          "complaints_per_million": "559"
+        },
+        {
+          "airline_name": "Montenegro Airlines",
+          "complaints_per_million": "431"
+        },
+        {
+          "airline_name": "Neos SPA",
+          "complaints_per_million": "422"
+        },
+        {
+          "airline_name": "Norwegian",
+          "complaints_per_million": "359"
+        },
+        {
+          "airline_name": "TAP Portugal",
+          "complaints_per_million": "354"
+        },
+        {
+          "airline_name": "Evelop",
+          "complaints_per_million": "327"
+        },
+        {
+          "airline_name": "Oman Air",
+          "complaints_per_million": "242"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020Q1",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "BH AIR",
+          "complaints_per_million": "22857"
+        },
+        {
+          "airline_name": "AIR NOSTRUM",
+          "complaints_per_million": "2545"
+        },
+        {
+          "airline_name": "HI FLY",
+          "complaints_per_million": "690"
+        },
+        {
+          "airline_name": "EVELOP",
+          "complaints_per_million": "579"
+        },
+        {
+          "airline_name": "AIR PORTUGAL",
+          "complaints_per_million": "543"
+        },
+        {
+          "airline_name": "GARUDA INDONESIA",
+          "complaints_per_million": "316"
+        },
+        {
+          "airline_name": "NORWEGIAN AIR UK LTD",
+          "complaints_per_million": "311"
+        },
+        {
+          "airline_name": "TUI AIRWAYS LTD",
+          "complaints_per_million": "299"
+        },
+        {
+          "airline_name": "IBERIA",
+          "complaints_per_million": "290"
+        },
+        {
+          "airline_name": "GEORGIAN AIRWAYS",
+          "complaints_per_million": "283"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020Q2",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "CITY JET",
+          "complaints_per_million": "13158"
+        },
+        {
+          "airline_name": "TUI AIRWAYS LTD",
+          "complaints_per_million": "1639"
+        },
+        {
+          "airline_name": "AIR TRANSAT",
+          "complaints_per_million": "1459"
+        },
+        {
+          "airline_name": "GEORGIAN AIRWAYS",
+          "complaints_per_million": "1339"
+        },
+        {
+          "airline_name": "AIR PORTUGAL",
+          "complaints_per_million": "1239"
+        },
+        {
+          "airline_name": "FLYBOSNIA",
+          "complaints_per_million": "912"
+        },
+        {
+          "airline_name": "OMAN AIR",
+          "complaints_per_million": "811"
+        },
+        {
+          "airline_name": "AIR MAURITIUS LTD",
+          "complaints_per_million": "790"
+        },
+        {
+          "airline_name": "THY TURKISH AIRLINES",
+          "complaints_per_million": "611"
+        },
+        {
+          "airline_name": "HI FLY",
+          "complaints_per_million": "476"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020Q3",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "AIR PORTUGAL",
+          "complaints_per_million": "54414"
+        },
+        {
+          "airline_name": "TUI AIRWAYS LTD",
+          "complaints_per_million": "50300"
+        },
+        {
+          "airline_name": "ROYAL AIR MAROC",
+          "complaints_per_million": "47619"
+        },
+        {
+          "airline_name": "AEROMEXICO",
+          "complaints_per_million": "38889"
+        },
+        {
+          "airline_name": "THAI AIRWAYS INTERNATIONAL",
+          "complaints_per_million": "31746"
+        },
+        {
+          "airline_name": "OMAN AIR",
+          "complaints_per_million": "23428"
+        },
+        {
+          "airline_name": "VIRGIN ATLANTIC AIRWAYS LTD",
+          "complaints_per_million": "22288"
+        },
+        {
+          "airline_name": "VUELING AIRLINES",
+          "complaints_per_million": "14218"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "complaints_per_million": "10518"
+        },
+        {
+          "airline_name": "Volotea",
+          "complaints_per_million": "9958"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2020Q4",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "UZBEKISTAN AIRLINES",
+          "complaints_per_million": "90909"
+        },
+        {
+          "airline_name": "EL AL",
+          "complaints_per_million": "38961"
+        },
+        {
+          "airline_name": "SOUTH AFRICAN AIRWAYS",
+          "complaints_per_million": "14599"
+        },
+        {
+          "airline_name": "AVIANCA COLOMBIA",
+          "complaints_per_million": "6378"
+        },
+        {
+          "airline_name": "OMAN AIR",
+          "complaints_per_million": "4861"
+        },
+        {
+          "airline_name": "PAKISTAN INTL AIRLINES",
+          "complaints_per_million": "3805"
+        },
+        {
+          "airline_name": "AIR PORTUGAL",
+          "complaints_per_million": "2903"
+        },
+        {
+          "airline_name": "VIRGIN ATLANTIC AIRWAYS LTD",
+          "complaints_per_million": "2499"
+        },
+        {
+          "airline_name": "MONTENEGRO AIRLINES",
+          "complaints_per_million": "2309"
+        },
+        {
+          "airline_name": "ROYAL AIR MAROC",
+          "complaints_per_million": "1540"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2021Q1",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "OMAN AIR",
+          "complaints_per_million": "3498"
+        },
+        {
+          "airline_name": "AIR PORTUGAL",
+          "complaints_per_million": "2250"
+        },
+        {
+          "airline_name": "VIRGIN ATLANTIC AIRWAYS LTD",
+          "complaints_per_million": "725"
+        },
+        {
+          "airline_name": "AIR CANADA",
+          "complaints_per_million": "641"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "complaints_per_million": "575"
+        },
+        {
+          "airline_name": "AIR CHINA",
+          "complaints_per_million": "436"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "complaints_per_million": "406"
+        },
+        {
+          "airline_name": "STOBART AIR",
+          "complaints_per_million": "352"
+        },
+        {
+          "airline_name": "THY TURKISH AIRLINES",
+          "complaints_per_million": "343"
+        },
+        {
+          "airline_name": "AIR FRANCE/KLM",
+          "complaints_per_million": "241"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2021Q2",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "AZERBAIJAN AIRLINES",
+          "complaints_per_million": "333333"
+        },
+        {
+          "airline_name": "AIR PORTUGAL",
+          "complaints_per_million": "10172"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "complaints_per_million": "7704"
+        },
+        {
+          "airline_name": "WEST JET AIRLINES",
+          "complaints_per_million": "3654"
+        },
+        {
+          "airline_name": "TUI AIRWAYS LTD",
+          "complaints_per_million": "2966"
+        },
+        {
+          "airline_name": "EASYJET  LTD",
+          "complaints_per_million": "1875"
+        },
+        {
+          "airline_name": "RWANDAIR",
+          "complaints_per_million": "1145"
+        },
+        {
+          "airline_name": "AEROFLOT",
+          "complaints_per_million": "924"
+        },
+        {
+          "airline_name": "VUELING AIRLINES",
+          "complaints_per_million": "880"
+        },
+        {
+          "airline_name": "BLUE ISLANDS LIMITED",
+          "complaints_per_million": "849"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2021Q3",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "NORWEGIAN AIR SHUTTLE",
+          "complaints_per_million": "37037"
+        },
+        {
+          "airline_name": "AZERBAIJAN AIRLINES",
+          "complaints_per_million": "7547"
+        },
+        {
+          "airline_name": "ROYAL AIR MAROC",
+          "complaints_per_million": "6099"
+        },
+        {
+          "airline_name": "JAZEERA AIRWAYS",
+          "complaints_per_million": "3401"
+        },
+        {
+          "airline_name": "THAI AIRWAYS INTERNATIONAL",
+          "complaints_per_million": "2332"
+        },
+        {
+          "airline_name": "QANTAS",
+          "complaints_per_million": "2186"
+        },
+        {
+          "airline_name": "WEST JET AIRLINES",
+          "complaints_per_million": "1996"
+        },
+        {
+          "airline_name": "TUNISAIR",
+          "complaints_per_million": "1726"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "complaints_per_million": "1463"
+        },
+        {
+          "airline_name": "AIR ARABIA MAROC",
+          "complaints_per_million": "1129"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2021Q4",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "OMAN AIR",
+          "complaints_per_million": "8910"
+        },
+        {
+          "airline_name": "PHILIPPINE AIRLINES",
+          "complaints_per_million": "3708"
+        },
+        {
+          "airline_name": "RWANDAIR",
+          "complaints_per_million": "2778"
+        },
+        {
+          "airline_name": "TUNISAIR",
+          "complaints_per_million": "1671"
+        },
+        {
+          "airline_name": "JAZEERA AIRWAYS",
+          "complaints_per_million": "1344"
+        },
+        {
+          "airline_name": "AIR PORTUGAL",
+          "complaints_per_million": "644"
+        },
+        {
+          "airline_name": "JET2.COM LTD",
+          "complaints_per_million": "525"
+        },
+        {
+          "airline_name": "AIR TRANSAT",
+          "complaints_per_million": "489"
+        },
+        {
+          "airline_name": "KENYA AIRWAYS",
+          "complaints_per_million": "447"
+        },
+        {
+          "airline_name": "AZERBAIJAN AIRLINES",
+          "complaints_per_million": "412"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2022Q1",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "TRANSAVIA",
+          "complaints_per_million": "2710"
+        },
+        {
+          "airline_name": "ROYAL AIR MAROC",
+          "complaints_per_million": "1667"
+        },
+        {
+          "airline_name": "ROYAL BRUNEI AIRLINES",
+          "complaints_per_million": "1239"
+        },
+        {
+          "airline_name": "AIR PORTUGAL",
+          "complaints_per_million": "470"
+        },
+        {
+          "airline_name": "OMAN AIR",
+          "complaints_per_million": "384"
+        },
+        {
+          "airline_name": "BLUE AIR",
+          "complaints_per_million": "361"
+        },
+        {
+          "airline_name": "AIR BALTIC",
+          "complaints_per_million": "346"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "complaints_per_million": "293"
+        },
+        {
+          "airline_name": "AIR EUROPA",
+          "complaints_per_million": "216"
+        },
+        {
+          "airline_name": "SRILANKAN AIRLINES",
+          "complaints_per_million": "197"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2021Q2",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "NOUVEL AIR TUNISIE",
+          "complaints_per_million": "7752"
+        },
+        {
+          "airline_name": "AVIANCA COLOMBIA",
+          "complaints_per_million": "3022"
+        },
+        {
+          "airline_name": "SCOOT",
+          "complaints_per_million": "1101"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "complaints_per_million": "682"
+        },
+        {
+          "airline_name": "AIR BALTIC",
+          "complaints_per_million": "517"
+        },
+        {
+          "airline_name": "AIR PORTUGAL",
+          "complaints_per_million": "446"
+        },
+        {
+          "airline_name": "VUELING AIRLINES",
+          "complaints_per_million": "417"
+        },
+        {
+          "airline_name": "AIR FRANCE/KLM",
+          "complaints_per_million": "332"
+        },
+        {
+          "airline_name": "NORWEGIAN AIR SHUTTLE",
+          "complaints_per_million": "327"
+        },
+        {
+          "airline_name": "ALL NIPPON AIRWAYS",
+          "complaints_per_million": "306"
+        }
+      ]
+    },
+    {
+      "yearsTime": "2021Q3",
+      "passenger_complaint_List": [
+        {
+          "airline_name": "CHINA SOUTHERN",
+          "complaints_per_million": "68966"
+        },
+        {
+          "airline_name": "WIZZ AIR",
+          "complaints_per_million": "811"
+        },
+        {
+          "airline_name": "ROYAL BRUNEI AIRLINES",
+          "complaints_per_million": "554"
+        },
+        {
+          "airline_name": "AVIANCA COLOMBIA",
+          "complaints_per_million": "490"
+        },
+        {
+          "airline_name": "SCOOT",
+          "complaints_per_million": "454"
+        },
+        {
+          "airline_name": "AIR PORTUGAL",
+          "complaints_per_million": "369"
+        },
+        {
+          "airline_name": "BULGARIA AIR",
+          "complaints_per_million": "359"
+        },
+        {
+          "airline_name": "AIR FRANCE/KLM",
+          "complaints_per_million": "340"
+        },
+        {
+          "airline_name": "ALL NIPPON AIRWAYS",
+          "complaints_per_million": "326"
+        },
+        {
+          "airline_name": "NOUVEL AIR TUNISIE",
+          "complaints_per_million": "278"
+        }
+      ]
+    }
+  ]
+}

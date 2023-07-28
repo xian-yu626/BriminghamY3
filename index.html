@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Project</title>
+    <link type="text/css" href="css/style.css" rel="stylesheet" />
+    <link rel='stylesheet' href='css/swiper.css'>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="./js/echarts.min.js"></script>
+    <script src='./js/swiper.js'></script>
+    <script src="./js/script.js"></script>
+  </head>
+  <style media="screen">
+  </style>
+  <!-- The latest Bootstrap jquery core JavaScript files -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+  <script src="./js/jquery.1.11.3.min.js" type="text/javascript" charset="utf-8"></script>
+  <body>
+   <!-- background -->
+    <div id="stars"></div>
+    <div id="stars2"></div>
+    <div id="stars3"></div>
+    <div class="wrap">
+      <!-- head -->
+      <div class=" office-header">
+        <div class="col-sm-12 col-md-12 pd  title-info">Data Analysis Visualization</div>
+        <div class="col-sm-5  col-md-5 pd analysis-info" id="currentTime"></div>
+      <!-- Data souce-->
+      <div class="data-source">
+        <p><a href="https://www.caa.co.uk/data-and-analysis/" target="_blank" rel="noopener noreferrer">Data Sources: UK Civil Aviation Authority</a></p>
+      </div>
+        
+   <!-- Filter box 2019-2020-->
+        <div class="titleDate"><select class="select" id="dropdownMenu"></select></div>
+      </div>
+      <!-- Questionnaire  -->
+      <div class="survey_box">
+      <div class="survey_content">
+        <a href="https://forms.microsoft.com/e/7wSKVMiN6n" target="_blank" rel="noopener noreferrer">
+          <img src="./images/survey.png" class="survey_img"></img>Please click here to gave me feadback
+        </a >
+      </div>
+      </div>
+      <!-- Visualization area -->
+      <div class="bottomDiv">
+        <!--Airline Name Ranking-->
+        <div class="weather col-sm-5 col-md-5 pd">
+          <div class="weather-info mr">
+            <span class="weatherTitle">Ranking of airlines in the number of flights</span>
+            <div id="weatherData3">
+          </div>
+          </div>
+        </div>
+        <!--Flight Delay Time-->
+        <div class="weather weatherSoil col-sm-7 col-md-7 pd">
+          <div class="weather-info">
+            <span class="weatherTitle">Flight delay rate (by duration of delay)</span>
+            <div id="zhu1">
+          </div>
+          </div>
+        </div>
+        <!--Number of flight cancellations-->
+        <div class="weather col-sm-8 col-md-8 pd">
+          <div class="weather-info mr mt">
+            <span class="weatherTitle">Top 10 flight cancellations</span>
+            <div id="zhu2">
+          </div>
+          </div>
+        </div>
+        <!--Number of flights this month-->
+        <div class="weather col-sm-4 col-md-4 pd">
+          <div class="weather-info mt" style="height: 405px;">
+            <span class="weatherTitle">Total flights for the month</span>
+            <div class="circelShwo">
+              <span class="circelTxt">144828</span>
+            </div>
+          </div>
+        </div>
+        <!--Predicted average delay ranking-->
+        <div class="weather col-sm-6 col-md-6 pd">
+          <!-- Filter box 2022-->
+        <div class="titleDate"><select class="select1" id="dropdownMenu1"></select></div>
+          <div class="weather-info bgColor mr mb" style="margin-top: 20px">
+            <span class="weatherTitle">Average delay time(Experimental)</span>
+            <div id="weatherData"></div>
+          </div>
+        </div>
+        <!-- Predicted average delay ranking-->
+        <div class="weather col-sm-6 col-md-6 pd">
+          <!-- Quarterly filter box-->
+          <div class="titleDate"><select class="select1" id="dropdownMenu2"></select></div>
+          <div class="weather-info bgColor mb" style="margin-top: 20px;height: 405px;">
+            <span class="weatherTitle">Top10 Complaints per million passenger</span>
+            <div class="million_box" id="million_box1"></div>
+            <div class="million_box" id="million_box2"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      let dataBing = [] //Pie Chart Arrays
+      let dataZhu1X = [] //Delayed flight histogram x
+      let dataZhu1Y = [] //Delayed flight histogram y
+      let dataZhu2X = [] //Delayed flight bar chart x
+      let dataZhu2Y = [] //Delayed flight histogram y
+      let calculateName = [] //Predicted Delayed Flights Histogram x
+      let calculateY1 = [] //Forecast delayed flight bar chart y true
+      let calculateY2 = [] //Forecast delayed flights bar chart y prediction
+      let dataZheX = [] //Folded line chart x-axis array
+      let dateSelect = '';
+      let dateSelect22 = '';
+      let dateSelectjd = '';
+      let dateSelectts5 = '';
+      let dateSelectts10 = '';
+      let timeShow = ''
+      let myChart = echarts.init(document.getElementById('weatherData3'));
+      let myChart2 = echarts.init(document.getElementById('weatherData'));
+      var myChart3 = echarts.init(document.getElementById('zhu1'));
+      var myChart4 = echarts.init(document.getElementById('zhu2'));
+      $.ajax({
+        url: "./js/data.json",
+        dataType: "json",
+        contentType: 'application/json',
+        async:false,
+        success: function (data) {
+          // Filter box 2019-2020 Default pie chart data
+          for (let i = 0; i < data.airline_name_Arr.length; i++) {
+              dateSelect += "<option value='" + data.airline_name_Arr[i].yearsTime + "'>" + data.airline_name_Arr[i].yearsTime + "</option>" //下拉框的循环数据
+              // Default pie chart and single bar chart
+              if (data.airline_name_Arr[i].yearsTime === '2019-01') {
+                let airline_name_List = data.airline_name_Arr[i].airline_name_List
+                for (let j = 0; j < airline_name_List.length; j++) {
+                  dataBing.push({value:airline_name_List[j].number_flights_matched,name:airline_name_List[j].airline_name})
+                  if (airline_name_List[j].airline_name != 'others') {
+                    dataZhu1X.push(airline_name_List[j].airline_name) //柱1X
+                    dataZhu1Y.push(airline_name_List[j].airline_average_delay_mins) //柱1Y
+                  }
+                }
+              }
+              // Filter box 2019-2020
+              $("#dropdownMenu").change(function(){
+                dataBing = []
+                dataZhu1X = []
+                dataZhu1Y = []
+                dataZhu2X = []
+                dataZhu2Y = []
+                var selectedOption = $("#dropdownMenu option:selected");
+                if (data.airline_name_Arr[i].yearsTime === selectedOption.val()) {
+                  let airline_name_List = data.airline_name_Arr[i].airline_name_List
+                  let flights_cancelled_List = data.flights_cancelled_Arr[i].flights_cancelled_List
+                  document.getElementsByClassName('circelTxt')[0].innerHTML = data.number_flights_matched_Arr[i].number_flights_matched
+                  for (let j = 0; j < airline_name_List.length; j++) {
+                    dataBing.push({value:airline_name_List[j].number_flights_matched,name:airline_name_List[j].airline_name})
+                    if (airline_name_List[j].airline_name != 'others') {
+                      dataZhu1X.push(airline_name_List[j].airline_name) //Single column X
+                      dataZhu1Y.push(airline_name_List[j].airline_average_delay_mins) //Single column Y
+                    }
+                  }
+                  
+                  for (let j = 0; j < flights_cancelled_List.length; j++) {
+                    if (flights_cancelled_List[j].airline_name != 'others') {
+                      dataZhu2X.push(flights_cancelled_List[j].number_flights_cancelled) //Longitudinal column X
+                      dataZhu2Y.push(flights_cancelled_List[j].airline_name) //Longitudinal column Y
+                    }
+                  }
+                  bingGraph(dataBing);
+                  zhu1Graph(dataZhu1X,dataZhu1Y);
+                  zhu2Graph(dataZhu2X,dataZhu2Y);
+                }
+              });
+          }
+
+          // Filter box 2022
+          for(let i = 0; i < data.predict_top_Arr.length; i++){
+            dateSelect22 += "<option value='" + data.predict_top_Arr[i].yearsTime + "'>" +data.predict_top_Arr[i].yearsTime + "</option>";  //下拉框的循环数据
+            // Default Line Chart
+            if (data.predict_top_Arr[i].yearsTime === '2022-01') {
+              let predict_top_List = data.predict_top_Arr[i].predict_top_List
+              for (let j = 0; j < predict_top_List.length; j++) {
+                if (predict_top_List[j].airline_name != 'others_mean') {
+                  calculateY1.push(predict_top_List[j].agg_average_delay) //Folded true y
+                  calculateY2.push(predict_top_List[j].predict) //Discount line prediction y
+                  calculateName.push(predict_top_List[j].airline_name) //x-axis
+                }
+              }
+            }
+            $("#dropdownMenu1").change(function (){
+              calculateY1 = []
+              calculateY2 = []
+              calculateName = []
+              var selectedOption = $("#dropdownMenu1 option:selected");
+              if (data.predict_top_Arr[i].yearsTime === selectedOption.val()) {
+                    let predict_top_List = data.predict_top_Arr[i].predict_top_List
+                    for (let j = 0; j < predict_top_List.length; j++) {
+                      if (predict_top_List[j].airline_name != 'others_mean') {
+                        calculateY1.push(predict_top_List[j].agg_average_delay) //Folded true y
+                        calculateY2.push(predict_top_List[j].predict) //Discount line prediction y
+                        calculateName.push(predict_top_List[j].airline_name) //x-axis
+                      }
+                    }
+                zheGraph(calculateY1,calculateY2,calculateName);
+              }
+            })
+          }
+
+          // Filter box Quarterly
+          for(let i = 0; i < data.passenger_complaint_Arr.length; i++){
+            dateSelectjd += "<option value='" + data.passenger_complaint_Arr[i].yearsTime + "'>" +data.passenger_complaint_Arr[i].yearsTime + "</option>";  //Cyclic data for drop-down boxes
+            // Default graphics
+            if (data.passenger_complaint_Arr[i].yearsTime === '2019Q1') {
+              let passenger_complaint_List = data.passenger_complaint_Arr[i].passenger_complaint_List
+              for (let s = 0; s < passenger_complaint_List.length; s++) {
+                if(s < 5){
+                  dateSelectts5 += "<div class='staff-cust-time'>" + "<span class='spanTxt'>" + data.passenger_complaint_Arr[i].passenger_complaint_List[s].airline_name + "</span>" + "<span class='spanTxt2'>" + data.passenger_complaint_Arr[i].passenger_complaint_List[s].complaints_per_million + "</span>" +"</div>";
+                }else{
+                  dateSelectts10 += "<div class='staff-cust-time'>" + "<span class='spanTxt'>" + data.passenger_complaint_Arr[i].passenger_complaint_List[s].airline_name + "</span>" + "<span class='spanTxt2'>" + data.passenger_complaint_Arr[i].passenger_complaint_List[s].complaints_per_million + "</span>" +"</div>";
+                }
+              }
+            }
+
+            $("#dropdownMenu2").change(function (){
+             dateSelectts5 = '';
+             dateSelectts10 = '';
+              var selectedOption = $("#dropdownMenu2 option:selected");
+              if (data.passenger_complaint_Arr[i].yearsTime === selectedOption.val()) {
+                let passenger_complaint_List = data.passenger_complaint_Arr[i].passenger_complaint_List;
+                for (let s = 0; s < passenger_complaint_List.length; s++) {
+                  if(s < 5){
+                    document.getElementById('million_box1').innerHTML = '';
+                    dateSelectts5 += "<div class='staff-cust-time'>" + "<span class='spanTxt'>" + data.passenger_complaint_Arr[i].passenger_complaint_List[s].airline_name + "</span>" + "<span class='spanTxt2'>" + data.passenger_complaint_Arr[i].passenger_complaint_List[s].complaints_per_million + "</span>" +"</div>";
+                  }
+                  else{
+                    document.getElementById('million_box2').innerHTML = '';
+                    dateSelectts10 += "<div class='staff-cust-time'>" + "<span class='spanTxt'>" + data.passenger_complaint_Arr[i].passenger_complaint_List[s].airline_name + "</span>" + "<span class='spanTxt2'>" + data.passenger_complaint_Arr[i].passenger_complaint_List[s].complaints_per_million + "</span>" +"</div>";
+                  }
+                }
+              }
+              $("#million_box1").append(dateSelectts5);//append Add in and show
+              $("#million_box2").append(dateSelectts10);//append Add in and show
+            })
+          }
+
+          // Default single vertical bar chart
+          for (let i = 0; i < data.flights_cancelled_Arr.length; i++) {
+            if (data.flights_cancelled_Arr[i].yearsTime === '2019-01') {
+              let flights_cancelled_List = data.flights_cancelled_Arr[i].flights_cancelled_List
+              for (let j = 0; j < flights_cancelled_List.length; j++) {
+                if (flights_cancelled_List[j].airline_name != 'others') {
+                  dataZhu2X.push(flights_cancelled_List[j].number_flights_cancelled) //Column 2X
+                  dataZhu2Y.push(flights_cancelled_List[j].airline_name) //Column 2Y
+                }
+              }
+            }
+          }
+
+          bingGraph(dataBing);
+          zheGraph(calculateY1,calculateY2,calculateName);
+          zhu1Graph(dataZhu1X,dataZhu1Y);
+          zhu2Graph(dataZhu2X,dataZhu2Y);
+          $("#dropdownMenu").append(dateSelect);//append Add in and show
+          $("#dropdownMenu1").append(dateSelect22);//aappend Add in and show
+          $("#dropdownMenu2").append(dateSelectjd);//append Add in and show
+          $("#million_box1").append(dateSelectts5);//append Add in and show
+          $("#million_box2").append(dateSelectts10);//append Add in and show
+        }
+      });
+
+      // Pie Chart
+      function bingGraph(dataBing){
+        let option = {
+          title: { //Heading component with main heading and subheading
+            text: '',
+            subtext: '',
+            left: 'center'
+          },
+          tooltip: { //Tip box component
+            trigger: 'item' //Trigger type
+          },
+          legend: { //Legend components
+            textStyle:{ //Common text styles for legends
+              color:'transparent' //Colour of text
+            },
+            orient: 'vertical',//Layout orientation of the legend list
+            left: '3%'
+          },
+          series: [ //Chart data content
+            {
+              name: '',
+              type: 'pie', //Chart type
+              radius: '50%', //Radius of the pie chart
+              data:dataBing,
+              emphasis: {
+                itemStyle: {
+                  shadowBlur: 10,
+                  shadowOffsetX: 0,
+                  shadowColor: 'rgba(0, 0, 0, 0.5)'
+                }
+              }
+            }
+          ]
+        };
+        myChart.setOption(option);
+      }
+
+      //Folding Line Chart
+      function zheGraph(calculateY1,calculateY2,calculateName){
+      let option2 = {
+        title: {  //Heading component with main heading and subheading
+          text: ''
+        },
+        tooltip: { //Tip box component
+          trigger: 'axis'
+        },
+        legend: { //Legend components
+          textStyle:{
+            color:'#fff'
+          },
+        },
+        grid: { //Plotting grid in a Cartesian coordinate system, up to two X-axes up and down and two Y-axes left and right in a single grid
+          left: '3%',
+          right: '4%',
+          bottom: '3%',
+          containLabel: true //Does the area contain the coordinate axes of the
+        },
+        xAxis: { //x-axis
+          type: 'category',
+          axisLine: {lineStyle: {color: '#57617B'}},
+          axisLabel: { //Settings related to coordinate axis scale labels
+            rotate:60,
+            textStyle: {color:'#fff'}, //Coordinate axis font colour
+            interval:0, //Display interval for coordinate axis scale labels
+          },
+          boundaryGap: false, //White space strategy on both sides of the coordinates
+          data:calculateName //x-axis data
+        },
+        yAxis: { //y-axis
+          type: 'value', //Coordinate axis type
+          axisLine: { //Set the style of the y-axis coordinate line
+            lineStyle: {color: '#57617B'} //Colour of the y-axis coordinate line
+          },
+          axisLabel:{ //Settings related to coordinate axis scale labels
+            interval:0,//Display interval for coordinate axis scale labels
+            margin: 10,//Distance between the scale label and the axis
+            textStyle: { //Coordinate axis font colour
+              color: '#fff'
+            },
+          },
+          axisTick:{ //y-axis scale
+            show:false //Whether to display the axis scale
+          },
+          splitLine: {lineStyle: {color: '#57617B'}}
+        },
+        series: [ //Chart data content
+          {
+            name:'agg_average_delay', //Series name for the display of tooltip
+            type:'line',
+            lineStyle:{ //Line style
+              color:'#FFF725' //Line colour
+            },
+            smooth: true,
+            areaStyle: {
+              normal: {
+                color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{
+                  offset: 0,
+                  color: 'rgba(232, 190, 49, 0.3)'
+                }, {
+                  offset: 0.8,
+                  color: 'rgba(232, 190, 49, 0)'
+                }], false),
+                shadowColor: 'rgba(0, 0, 0, 0.1)',
+                shadowBlur: 10
+              }
+            },
+            itemStyle: {normal: { color: '#FFF725'}},
+            data:calculateY1 //data
+          },
+          {
+            name:'predict',
+            type:'line',
+            smooth: true,
+            lineStyle:{ color:'#B996F8' },//Line colour
+            itemStyle: {normal: { color: '#B996F8'}},
+            areaStyle: {
+              normal: {
+                color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{
+                  offset: 0,
+                  color: 'rgba(185,150,248,0.3)'
+                }, {
+                  offset: 0.8,
+                  color: 'rgba(185,150,248,0)'
+                }], false),
+                shadowColor: 'rgba(0, 0, 0, 0.1)',
+                shadowBlur: 10
+              }
+            },
+            data:calculateY2
+          },
+        ]
+      };
+      myChart2.setOption(option2);
+      }
+
+      //Single bar chart
+      function zhu1Graph(dataZhu1X,dataZhu1Y){
+        var option3 = {
+          legend: {
+            textStyle:{
+              color:'#fff'
+            },
+          },
+          grid: { //Plotting grid in a Cartesian coordinate system, up to two X-axes up and down and two Y-axes left and right in a single grid
+            top: '5%',
+
+            bottom: '25%',
+          },
+          tooltip: { //Tip box component
+            trigger: 'axis'
+          },
+          xAxis: {type: 'category',axisLine: {lineStyle: {color: '#57617B'}},axisLabel: {interval:0,rotate:60,textStyle: {color:'#fff'}},data: dataZhu1X},
+          yAxis:[
+            {
+              type: 'value',name: '',
+              axisLine: {lineStyle: {color: '#57617B'}},
+              axisLabel: {margin: 10,textStyle: {fontSize: 12},textStyle: {color:'#fff'}},
+              splitLine: {
+                show: true,
+                lineStyle:{
+                  type:'dashed',
+                  color: ['#25CEF3']
+                }
+              }
+            },
+            {
+              type: 'value',name: '',
+              axisLabel: {margin: 10,textStyle: {fontSize: 12},textStyle: {color:'#fff'}},
+              splitLine: {
+                show: true,
+                lineStyle:{
+                  type:'dashed',
+                  color: ['#25CEF3']
+                }
+              }
+            }
+          ],
+          series: [
+            {
+              type: 'bar',
+              data: dataZhu1Y,
+              barWidth: 15,
+              itemStyle : {
+                normal: {
+                  barBorderRadius:[10, 10, 0, 0],
+                  color: new echarts.graphic.LinearGradient(0, 1, 0, 0, [{
+                    offset: 0,
+                    color: "#4033F9"
+                  }, {
+                    offset: 0.8,
+                    color: "#BA97F9"
+                  }], false),
+                  shadowColor: 'rgba(0, 0, 0, 0.1)',
+                }
+              },
+            },
+          ]
+        };
+        myChart3.setOption(option3);
+      }
+
+      // Single vertical bar chart
+      function zhu2Graph(dataZhu2X,dataZhu2Y){
+        var option4 = {
+          legend: {
+            textStyle:{
+              color:'#fff'
+            },
+          },
+          grid: { //Plotting grid in a Cartesian coordinate system, up to two X-axes up and down and two Y-axes left and right in a single grid
+            top: '10%',
+            left: '16%',
+          },
+          tooltip: { //Tip box component
+            trigger: 'axis'
+          },
+          xAxis: {type: 'value',axisLine: {lineStyle: {color: '#57617B'}},axisLabel: {interval:0,textStyle: {color:'#fff'}}},
+          yAxis:
+            {
+              type: 'category',name: '',
+              data: dataZhu2Y,
+              axisLine: {lineStyle: {color: '#57617B'}},
+              axisLabel: {margin: 10,textStyle: {fontSize: 12},textStyle: {color:'#fff'}},
+              splitLine: {
+                show: true,
+                lineStyle:{
+                  type:'dashed',
+                  color: ['#25CEF3']
+                }
+              }
+            },
+          series: [
+            {
+              type: 'bar',
+              data: dataZhu2X,
+              barWidth: 15,
+              itemStyle: {
+                normal: {
+                  barBorderRadius: 8,
+                  color: new echarts.graphic.LinearGradient(0, 0, 1, 0, [{
+                    offset: 0,
+                    color: "#009AFD"
+                  }, {
+                    offset: 0.8,
+                    color: "#33DAFF"
+                  }], false),
+                  shadowColor: 'rgba(0.1, 0, 0, 0)',
+                }
+              },
+            },
+          ]
+        };
+        myChart4.setOption(option4);
+      }
+
+      // Time
+      function add0(m){
+        return m<10?'0'+m:m
+      }
+      function time(){
+        var time = new Date(new Date().getTime());
+        var y = time.getFullYear();
+        var m = time.getMonth()+1;
+        var d = time.getDate();
+        var h = time.getHours();
+        var mm = time.getMinutes();
+        var s = time.getSeconds();
+        document.getElementById('currentTime').innerHTML = 'current time:' + ' ' + y+'-'+add0(m)+'-'+add0(d)+' '+add0(h)+':'+add0(mm)+':'+add0(s);
+      }
+      setInterval(time,1000);
+      //chart width adaptive
+      window.onresize = function(){
+        myChart.resize();
+        myChart2.resize();
+        myChart3.resize();
+        myChart4.resize();
+      }
+    });
+
+  </script>
+</html>
