@@ -22,6 +22,6 @@ Database: PostgreSQL (for storing and managing data)
 We would like to express our gratitude to all the contributors and users who have provided feedback and support for this project.
 ## If you have any questions or concerns, please contact us via:
 Email: xyw.max@qq.com 
-WeChat: XMYAWX
+WeChat: XMYAWX_
 ## Demo
 ![image](https://github.com/xian-yu626/BriminghamY3/assets/63033890/8079d968-ef10-4f29-aacf-056ce456f534)
